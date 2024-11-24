@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LabelQuick
 一种快速、轻松的AI辅助标注工具LabelQuick
 
@@ -66,3 +67,6 @@ https://github.com/xaio6/LabelQuick/assets/118904918/201647df-3544-4030-84c4-b71
 
 
 感谢您选择 LabelQuick，我们希望这款工具能极大地提升您的工作效率。祝您标注愉快！
+=======
+# Model_Auto_Label
+>>>>>>> 77b6c9f13512a378bc962701b2d1965288d142bb
